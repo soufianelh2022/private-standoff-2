@@ -41,13 +41,13 @@
 
 },
   "my_data":[
-  {"desc1":"description1 ser ",
-   "photo1":"https://easy-rental.fr/wp-content/uploads/2020/03/caract%C3%A9ristiques-du-macbook-pro-2019.jpg"},
-  {"desc2":"description2 ser","photo2":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc3":"description3 ser","photo3":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc4":"description4 ser","photo4":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"desc5":"description5 ser","photo5":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"descd":"description d ser","photod":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"desc1":"In the realm of mobile gaming, competitive first-person shooters have carved their niche, captivating players with heart-pounding action and strategic gameplay.  ",
+   "photo1":"https://iili.io/HDUj287.webp"},
+  {"desc2":"Among these, "Standoff 2" stands as a prominent title","photo2":"https://iili.io/HDUjJF2.webp"},
+  {"desc3":"known for its gripping battles and dynamic team-based scenarios.","photo3":"https://iili.io/HDUjdaS.webp"},
+  {"desc4":"However, within this intense gaming landscape, a new trend has emerged — the private Standoff 2 standoff","photo4":"https://iili.io/HDUjF99.webp"},
+  {"desc5":"This phenomenon offers players a unique and personalized experience, redefining the traditional gaming dynamics.","photo5":"https://iili.io/HDUjKue.webp"},
+  {"descd":"Private Standoff 2 standoffs refer to organized, invite-only matches within the game's multiplayer mode","photod":"https://iili.io/HDUjfwu.webp"}
    ]
  
 }
